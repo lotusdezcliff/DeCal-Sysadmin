@@ -1,0 +1,9 @@
+1. -
+2. Done
+3. Done
+4. hunter
+5. -
+6. rm -r nonsense
+7. grep -B 2 https big_data.txt
+8. chmod u+x a_script
+9. echo Aaron >> hello_world
