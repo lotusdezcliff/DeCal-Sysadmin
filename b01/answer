@@ -1,3 +1,4 @@
+Part 1
 1. -
 2. Done
 3. Done
@@ -7,3 +8,20 @@
 7. grep -B 2 https big_data.txt
 8. chmod u+x a_script
 9. echo Aaron >> hello_world
+
+Part 2
+1. -
+2. -
+3. -
+4. ls -lturh
+-l -> long listing
+-t -> sort by modification time
+-u -> use last access time for sorting
+-r -> reverse order(oldest files appear on top)
+-h -> human-readable file sizes
+5. head -n 4 big_data.txt
+6. cat foo > out.txt (overwrite the out.txt file)
+cat foo >> out.txt (append to the new line of the out.txt file)
+7. -
+8. -
+9. -
