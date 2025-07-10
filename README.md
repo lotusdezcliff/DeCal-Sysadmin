@@ -18,10 +18,10 @@ Not affiliated with any official course — this is my own collection for learni
 🚀 Setup
 Clone the repo to dive in:
 
-<pre>
+```bash
 git clone https://github.com/yourusername/DeCal-Sysadmin.git
 cd DeCal-Sysadmin
-</pre>
+```
 Make sure you're using a Linux machine or VM to follow along with the exercises.
 
 💡 About Me
