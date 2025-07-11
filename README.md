@@ -19,7 +19,7 @@ Not affiliated with any official course — this is my own collection for learni
 Clone the repo to dive in:
 
 ```bash
-git clone https://github.com/yourusername/DeCal-Sysadmin.git
+git clone https://github.com/lotusdezcliff/DeCal-Sysadmin.git
 cd DeCal-Sysadmin
 ```
 Make sure you're using a Linux machine or VM to follow along with the exercises.
